@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucianomaciel10&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/lucianomaciel10?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=LucianoMaciel10&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/LucianoMaciel10?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </p>
 
 ---
@@ -33,8 +33,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-maciel-53253430a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchomaciel9@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu-usuario-discord)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucianomaciel10)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuroobi5049)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoMaciel10)
 
 </div>
 
@@ -60,16 +60,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucianomaciel10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomaciel10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoMaciel10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMaciel10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianomaciel10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucianoMaciel10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucianomaciel10&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoMaciel10&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -77,7 +77,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucianomaciel10&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LucianoMaciel10&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
 
 ---

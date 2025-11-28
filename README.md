@@ -19,7 +19,7 @@
 💼 Full Stack Web Developer specializing in MERN Stack
 🎓 Computer Science background from UNLP (2 years)
 📚 Currently studying Web Development at UNER
-🌱 Focused on Next.js, TypeScript, and modern web technologies
+🌱 Focused on MERN projects and modern web technologies
 💡 Passionate about creating real-world, user-centric solutions
 🎯 Goal: Build scalable and maintainable applications
 📍 Based in Argentina
